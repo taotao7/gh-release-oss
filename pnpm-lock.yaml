@@ -49,8 +49,8 @@ importers:
         specifier: ^2.5.12
         version: 2.6.12
       '@vercel/ncc':
-        specifier: ^0.34.0
-        version: 0.34.0
+        specifier: ^0.38.3
+        version: 0.38.3
       jest:
         specifier: ^29.3.1
         version: 29.7.0(@types/node@18.19.86)
@@ -466,8 +466,8 @@ packages:
   '@types/yargs@17.0.33':
     resolution: {integrity: sha512-WpxBCKWPLr4xSsHgz511rFJAM+wS28w2zEO1QDNY5zM/S8ok70NNfztH0xwhqKyaK0OHCbN98LDAZuy1ctxDkA==}
 
-  '@vercel/ncc@0.34.0':
-    resolution: {integrity: sha512-G9h5ZLBJ/V57Ou9vz5hI8pda/YQX5HQszCs3AmIus3XzsmRn/0Ptic5otD3xVST8QLKk7AMk7AqpsyQGN7MZ9A==}
+  '@vercel/ncc@0.38.3':
+    resolution: {integrity: sha512-rnK6hJBS6mwc+Bkab+PGPs9OiS0i/3kdTO+CkI8V0/VrW3vmz7O2Pxjw/owOlmo6PKEIxRSeZKv/kuL9itnpYA==}
     hasBin: true
 
   address@1.2.2:
@@ -2305,7 +2305,7 @@ snapshots:
     dependencies:
       '@types/yargs-parser': 21.0.3
 
-  '@vercel/ncc@0.34.0': {}
+  '@vercel/ncc@0.38.3': {}
 
   address@1.2.2: {}
 
