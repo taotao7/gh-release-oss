@@ -1,6 +1,6 @@
 # https://help.github.com/en/articles/metadata-syntax-for-github-actions
-name: "GH Release"
-description: "Github Action for creating Github Releases"
+name: "GH Release OSS"
+description: "Github Action for creating Github Releases and uploading assets to Aliyun OSS"
 author: "softprops"
 inputs:
   body:
