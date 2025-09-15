@@ -25,13 +25,13 @@
     "@octokit/plugin-throttling": "^4.3.2",
     "ali-oss": "^6.22.0",
     "glob": "^8.0.3",
-    "mime": "^3.0.0",
+    "mime": "^4.1.0",
     "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "@types/glob": "^8.0.0",
     "@types/jest": "^29.2.2",
-    "@types/mime": "^3.0.1",
+    "@types/mime": "^4.0.0",
     "@types/node": "^18.11.9",
     "@types/node-fetch": "^2.5.12",
     "@vercel/ncc": "^0.34.0",
